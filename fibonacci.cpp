@@ -7,7 +7,7 @@ The program then prints the fibonacci sequence to the Nth term
 #include <iostream>
 #include <vector>
 #include <cmath>
- using namespace std;
+using namespace std;
 
 int main() {
     int n;
